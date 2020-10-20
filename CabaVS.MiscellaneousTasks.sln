@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CabaVS.MiscellaneousTasks", "CabaVS.MiscellaneousTasks.csproj", "{51F0DDA9-CD44-4AF7-9932-DC8C21EE75CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F0DDA9-CD44-4AF7-9932-DC8C21EE75CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F0DDA9-CD44-4AF7-9932-DC8C21EE75CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F0DDA9-CD44-4AF7-9932-DC8C21EE75CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F0DDA9-CD44-4AF7-9932-DC8C21EE75CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {051C69FD-4491-4B61-826C-9801427BBFFE}
+	EndGlobalSection
+EndGlobal
