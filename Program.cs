@@ -6,7 +6,7 @@ namespace CabaVS.MiscellaneousTasks
     {
         static void Main(string[] args)
         {
-            AirportConnections.Execute();
+            TortoiseAndHareAlgorithm.Execute();
         }
     }
 }
